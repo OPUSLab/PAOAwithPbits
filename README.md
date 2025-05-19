@@ -5,7 +5,7 @@ This repository contains code and data to reproduce the results of the paper tit
 
 Each folder corresponds to a main figure in the paper, including code for training, inference, and plotting.
 
-## 🟦 Figure 2: Majority Gate
+## ⚙️ Figure 2: Majority Gate
 
 In this section, we use a **private inverse temperature schedule** (β) to learn the weights of a majority gate.
 
@@ -13,7 +13,7 @@ In this section, we use a **private inverse temperature schedule** (β) to learn
 - Plotting scripts are also included to visualize the learned behavior.
 
 
-## 🟦 Figure 3: Simulated Annealing Discovery
+## ⚙️ Figure 3: Simulated Annealing Discovery
 
 Here, we apply our **online annealing architecture** to **discover Simulated Annealing** within the PAOA framework using **single-parameter schedule optimization**.
 
@@ -21,7 +21,7 @@ Here, we apply our **online annealing architecture** to **discover Simulated Ann
 - The setup demonstrates that PAOA can naturally discover simulated annealing dynamics.
 
 
-## 🟦 Figure 4: SK Model
+## ⚙️ Figure 4: SK Model
 
 This experiment applies PAOA with **dual annealing schedule parametrization** to the **Sherrington-Kirkpatrick (SK) spin glass model**.
 
@@ -29,7 +29,7 @@ This experiment applies PAOA with **dual annealing schedule parametrization** to
 - Includes training, inference, problem instances, and visualization code.
 - 
 
-## 🟦 Figure 5: SK Model with Lévy Bonds
+## ⚙️ Figure 5: SK Model with Lévy Bonds
 
 We extend the dual-schedule PAOA to the SK model with **Lévy-distributed couplings**, introducing **schedule heterogeneity based on bond strength**.
 
