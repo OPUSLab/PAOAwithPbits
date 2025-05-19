@@ -36,3 +36,19 @@ We extend the dual-schedule PAOA to the SK model with **Lévy-distributed coupli
 - Heavily connected nodes are assigned a **lower annealing profile**.  
 - Weakly connected nodes are assigned a **higher annealing profile**.  
 - Full training, inference, and plotting tools are provided.
+
+## Contributing
+
+Contributions to improve the code or extend its functionality are welcome. Please feel free to submit issues or pull requests.
+
+
+## Acknowledgements
+
+## Citations
+
+To cite this work, please cite the following paper: 
+
+## Contact
+
+If you have any questions or suggestions, please open an issue in this repository or contact Abdelrahman Abdelrahman (abdelrahman@ucsb.edu).
+
