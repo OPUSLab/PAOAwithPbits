@@ -27,7 +27,6 @@ This experiment applies PAOA with **dual annealing schedule parametrization** to
 
 - We also run QAOA using optimized parameters from Farhi et al. for comparison.  
 - Includes training, inference, problem instances, and visualization code.
-- 
 
 ## ⚙️ Figure 5: SK Model with Lévy Bonds
 
