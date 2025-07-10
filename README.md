@@ -24,8 +24,8 @@ Here, we apply our **online annealing architecture** to **discover Simulated Ann
 ## ⚙️ Figure 4: SK Model
 
 This experiment applies PAOA with **dual annealing schedule parametrization** to the **Sherrington-Kirkpatrick (SK) spin glass model**.
-
-- We also run QAOA using optimized parameters from Farhi et al. for comparison.  
+- The PAOA is applied to 26-spin SK model using matched count parameters as QAOA.
+- We run QAOA using optimized parameters from Farhi et al. for comparison.  
 - Includes training, inference, problem instances, and visualization code.
 
 ## ⚙️ Figure 5: SK Model with Lévy Bonds
