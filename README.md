@@ -43,10 +43,17 @@ Contributions to improve the code or extend its functionality are welcome. Pleas
 
 ## Acknowledgements
 
+ASA, SC, and KYC acknowledge support from the
+National Science Foundation (NSF) under award number
+2311295. We are grateful to Navid Anjum Aadit for
+discussions related to the hardware implementation of online
+annealing, and Ruslan Shaydulin and Zichang He for input on
+QAOA benchmarking.
+
 ## Citations
 
 To cite this work, please cite the following paper: 
-
+https://arxiv.org/abs/2507.07420
 ## Contact
 
 If you have any questions or suggestions, please open an issue in this repository or contact Abdelrahman Abdelrahman (abdelrahman@ucsb.edu).
