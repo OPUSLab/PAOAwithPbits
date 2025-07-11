@@ -1,7 +1,7 @@
 # PAOA with p-Computer
 
 This repository contains code and data to reproduce the results of the paper titled:  
-**“Probabilistic Approximate Optimization Algorithm (PAOA) with Probabilistic Computers.”**
+**“Probabilistic Approximate Optimization: A New Variational Monte Carlo Algorithm.”**
 
 Each folder corresponds to a main figure in the paper, including code for training, inference, and plotting.
 
