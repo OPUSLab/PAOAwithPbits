@@ -6,7 +6,7 @@ This repository contains code and data to reproduce the results of the paper tit
 Each folder corresponds to a main figure in the paper, including code for training, inference, and plotting.
 
 ## ⚙️ Figure 2: Majority Gate
-
+ 
 In this section, we use a **private inverse temperature schedule** (β) to learn the weights of a majority gate.
 
 - Numerical training code is provided to reproduce the results.  
