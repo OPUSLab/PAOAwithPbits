@@ -45,5 +45,5 @@ Contributions to improve the code or extend its functionality are welcome. Pleas
 
 ## Contact
 
-For questions or contributions, feel free to open an issue, pull request, or contact Abdelrahman Abdelrahman (abdelrahman@ucsb.edu).
+For questions, feel free to open an issue, pull request, or contact Abdelrahman Abdelrahman (abdelrahman@ucsb.edu).
 
