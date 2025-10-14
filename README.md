@@ -48,14 +48,21 @@ Contributions to improve the code or extend its functionality are welcome. Pleas
 
 ASA, SC, and KYC acknowledge support from the
 National Science Foundation (NSF) under award number
-2311295. We are grateful to Navid Anjum Aadit for
-discussions related to the hardware implementation of online
-annealing, and Ruslan Shaydulin and Zichang He for input on
-QAOA benchmarking.
+2311295, and the Office of Naval Research (ONR),
+Multidisciplinary University Research Initiative (MURI)
+under Grant No. N000142312708. We are grateful to
+Navid Anjum Aadit for discussions related to the hardware
+implementation of online annealing, and Ruslan Shaydulin
+and Zichang He for input on QAOA benchmarking. Use
+was made of computational facilities purchased with funds
+from the National Science Foundation (CNS-1725797) and
+administered by the Center for Scientific Computing (CSC). The CSC is supported by the California NanoSystems
+Institute and the Materials Research Science and Engineering
+Center (MRSEC; NSF DMR 2308708) at UC Santa Barbara
 
 
 ## Contact
 
 If you have any questions or suggestions, please open an issue in this repository or contact Abdelrahman Abdelrahman (abdelrahman@ucsb.edu).
->>>>>>> 8c6956b (updated README)
+
 
